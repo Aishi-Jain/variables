@@ -7,3 +7,6 @@ console.log(calculation + 12);
 
 let result = calculation + variable1;
 console.log(result);
+
+let message = 'hello!';
+console.log(message);
