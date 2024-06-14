@@ -1,3 +1,8 @@
+let cartQuantity = 0;
+
+
+
+
 /* let variable1 = 3;
 console.log(variable1);
 
