@@ -10,3 +10,6 @@ console.log(result);
 
 let message = 'hello!';
 console.log(message);
+
+variable1 = 5;
+console.log(variable1);
