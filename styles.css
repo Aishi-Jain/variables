@@ -31,3 +31,10 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+button:hover {
+    cursor: pointer;
+    color: black;
+    border: 15px solid rgb(38, 43, 10);
+    border-radius: 20%;
+}
